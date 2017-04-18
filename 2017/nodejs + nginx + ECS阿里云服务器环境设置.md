@@ -94,7 +94,7 @@
 2.修改完配置文件，先运行 `nginx -t` 查看是否有错
 
 
-####ps:
+#### ps:
 
 * [http://www.infocool.net/kb/Other/201611/217359.html](http://www.infocool.net/kb/Other/201611/217359.html)
 - [https://help.aliyun.com/document_detail/50604.html](https://help.aliyun.com/document_detail/50604.html)
